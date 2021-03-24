@@ -1,9 +1,9 @@
-import { RepositoryItem } from "./RepositoryItem";
+import { RepositoryItem } from './RepositoryItem';
 
 const repository = {
-    name: "unform",
-    description: "Forms in React",
-    link: "https://github.com/IgorDalepiane",
+    name: 'unform',
+    description: 'Forms in React',
+    link: 'https://github.com/IgorDalepiane',
 };
 
 export function RepositoryList() {
